@@ -20,8 +20,8 @@ const statSadrzaj=[
     'js/bootstrap.min.js',
     'js/jquery.countTo.js',
     'js/jquery.min.js',
-    'js/jquery.waypoints.min.js'        
-
+    'js/jquery.waypoints.min.js',        
+    'strana2.html'
     
 
     ];
